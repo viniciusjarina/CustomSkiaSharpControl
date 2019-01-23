@@ -1,3 +1,3 @@
 # CustomSkiaSharpControl
 
-![screenshot](https://github.com/viniciusjarina/CustomSkiaControl/raw/master/skia_control.gif)
+[![screenshot](https://raw.githubusercontent.com/viniciusjarina/CustomSkiaSharpControl/master/skia_control.gif)]()
